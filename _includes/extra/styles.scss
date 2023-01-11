@@ -13,3 +13,9 @@
     display: inline-block;
     font: normal normal normal 22px/1 "FontAwesome"
 }
+
+@media(min-width: 1280px) {
+    .container {
+        background: #fff
+    }
+}
